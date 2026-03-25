@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.2",
+    "downloadUrl":  "https://github.com/engix3/rewave/releases/tag/v1.0.2",
+    "packageUrl":  "https://github.com/engix3/rewave/releases/download/v1.0.2/ReWave-win-x64.zip",
+    "packageSha256":  "B0A26CC60591BC860F13993C9D0C7C2578158333131BCC533358A08533E75B19",
+    "bootstrapperUrl":  "",
+    "notes":  "Bootstrapper window polish update with drag and minimize support.",
+    "mandatory":  false
+}
