@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.2",
-    "downloadUrl":  "https://github.com/engix3/rewave/releases/tag/v1.0.2",
-    "packageUrl":  "https://github.com/engix3/rewave/releases/download/v1.0.2/ReWave-win-x64.zip",
-    "packageSha256":  "B0A26CC60591BC860F13993C9D0C7C2578158333131BCC533358A08533E75B19",
+    "version":  "1.0.3",
+    "downloadUrl":  "https://github.com/engix3/rewave/releases/tag/v1.0.3",
+    "packageUrl":  "https://github.com/engix3/rewave/releases/download/v1.0.3/ReWave-win-x64.zip",
+    "packageSha256":  "4D631E41932D7FDDD973FACF38D0E4A98A0FDA4E82924F9E9CC887B67FB32D0F",
     "bootstrapperUrl":  "",
-    "notes":  "Bootstrapper window polish update with drag and minimize support.",
+    "notes":  "Remote runtime content support for Updates and Status, plus bootstrapper window improvements.",
     "mandatory":  false
 }
