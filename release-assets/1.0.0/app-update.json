@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/engix3/rewave/releases/tag/v1.0.0",
-  "packageUrl": "https://github.com/engix3/rewave/releases/download/v1.0.0/ReWave-win-x64.zip",
-  "packageSha256": "7EFD59F8372529E494E2A8396E09818DD8DF34B04C57B2B8F5CE9A2B6C52E731",
-  "bootstrapperUrl": "",
-  "notes": "Initial GitHub Releases package for ReWave.",
-  "mandatory": false
+    "version":  "1.0.1",
+    "downloadUrl":  "https://github.com/engix3/rewave/releases/tag/v1.0.1",
+    "packageUrl":  "https://github.com/engix3/rewave/releases/download/v1.0.1/ReWave-win-x64.zip",
+    "packageSha256":  "9B3D4C4B23A97209245CF9B876F8C506FDC7795C518AC65B4514202B9B56DAE5",
+    "bootstrapperUrl":  "",
+    "notes":  "Bootstrapper update flow test release.",
+    "mandatory":  false
 }
