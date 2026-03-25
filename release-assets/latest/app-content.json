@@ -1,0 +1,14 @@
+{
+  "remoteContentUrl": "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-content.json",
+  "appUpdateManifestUrl": "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-update.json",
+  "widgets": [
+    {
+      "title": "Updates",
+      "description": "Bootstrapper window polish update is live. Version: 1.0.2"
+    },
+    {
+      "title": "Status",
+      "description": "Currently undetected and working.\nUsed - Quorum APIs"
+    }
+  ]
+}
