@@ -1,14 +1,14 @@
-{
-  "remoteContentUrl": "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-content.json",
-  "appUpdateManifestUrl": "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-update.json",
-  "widgets": [
-    {
-      "title": "Updates",
-      "description": "Bootstrapper window polish update is live."
-    },
-    {
-      "title": "Status",
-      "description": "Currently undetected and working.\nUsed - Quorum APIs"
-    }
-  ]
+﻿{
+    "remoteContentUrl":  "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-content.json",
+    "appUpdateManifestUrl":  "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-update.json",
+    "widgets":  [
+                    {
+                        "title":  "Updates",
+                        "description":  "ReWave 1.0.4 is live: bootstrapper polish, stability fixes, and updated APIs."
+                    },
+                    {
+                        "title":  "Status",
+                        "description":  "Currently undetected and working.\nUsed - Quorum APIs"
+                    }
+                ]
 }

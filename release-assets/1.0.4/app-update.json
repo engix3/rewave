@@ -1,0 +1,9 @@
+{
+    "mandatory":  false,
+    "notes":  "Bugfix and stability release.\n\nFixed:\n- Output window no longer yanks the view back to the bottom while you scroll up to read older logs. Auto-follow resumes when you scroll back to the tail.\n- .gitignore no longer hides app-content.json and app-update.sample.json. Also fixed a typo that prevented obj/ from being ignored.\n- RuntimeContentService now reuses a single HttpClient instead of creating one per request (avoids socket exhaustion).\n- App update check no longer treats any non-numeric version difference as an update (was causing false update prompts for pre-release-style versions).\n- Bootstrapper now launches the updated exe from the path it was originally started from.\n\nRemoved dead code:\n- ThemeManager.HoverBrush and unused SetStaticAutoUpdateLogs / _setSettingMethod members.\n- Duplicated WriteLog local functions in XenoApiAdapter consolidated into one helper.\n\nBuild/release tooling:\n- WPF temp csproj no longer committed.\n- app-content.json is only copied to output when missing, so builds don\u0027t clobber user edits.\n- release.ps1 resolves gh from PATH with a fallback to the default install location.",
+    "downloadUrl":  "https://github.com/engix3/rewave/releases/tag/v1.0.4",
+    "bootstrapperUrl":  "",
+    "packageUrl":  "https://github.com/engix3/rewave/releases/download/v1.0.4/ReWave-win-x64.zip",
+    "version":  "1.0.4",
+    "packageSha256":  "C5DB3438FCD9BC61F5A50E3C6E3657E55FFF2DBA67ACF038205C2D39C59F89D7"
+}
