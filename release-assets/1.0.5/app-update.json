@@ -1,0 +1,9 @@
+{
+    "mandatory":  false,
+    "notes":  "ReWave 1.0.5 - stability and reliability fixes: removed socket/resource and event leaks, hardened async UI handlers, safer provider auto-update and bootstrapper hash verification, bounded caches, and assorted output/provider fixes.",
+    "downloadUrl":  "https://github.com/engix3/rewave/releases/tag/v1.0.5",
+    "bootstrapperUrl":  "",
+    "packageUrl":  "https://github.com/engix3/rewave/releases/download/v1.0.5/ReWave-win-x64.zip",
+    "version":  "1.0.5",
+    "packageSha256":  "BC507B51645EA7F6927529439CC8880376300DFDD312CABA230F0891133DCFAD"
+}

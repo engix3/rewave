@@ -4,7 +4,7 @@
     "widgets":  [
                     {
                         "title":  "Updates",
-                        "description":  "ReWave 1.0.4 is live: bootstrapper polish, stability fixes, and updated APIs."
+                        "description":  "1.0.5 is out - stability pass: fewer crashes, no resource leaks, safer auto-updates."
                     },
                     {
                         "title":  "Status",
