@@ -1,4 +1,4 @@
-﻿{
+{
     "remoteContentUrl":  "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-content.json",
     "appUpdateManifestUrl":  "https://raw.githubusercontent.com/engix3/rewave/main/release-assets/latest/app-update.json",
     "widgets":  [
